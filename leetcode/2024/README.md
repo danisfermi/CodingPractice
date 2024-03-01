@@ -23,5 +23,5 @@ _All solutions are orderd by: Solution #_
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|1609|[Even Odd Tree](https://leetcode.com/problems/even-odd-tree/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/1609/isEvenOddTree.py)|![Medium](https://img.shields.io/badge/Medium-5cb85c.svg?style=flat)|
+|1609|[Even Odd Tree](https://leetcode.com/problems/even-odd-tree/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/1609/isEvenOddTree.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |2864|[Maximum Odd Binary Number](https://leetcode.com/problems/maximum-odd-binary-number/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/2864/maximumOddBinaryNumber.py)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
