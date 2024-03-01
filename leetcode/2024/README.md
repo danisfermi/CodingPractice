@@ -1,7 +1,7 @@
 # LeetCode
 
 <div align="center">
-<img src="https://github.com/danisfermi/leetcode/raw/master/leetcode-ico.png" width="450" height="auto"/>
+<img src="https://github.com/danisfermi/CodingPractice/raw/main/leetcode/leetcode-ico.png" width="450" height="auto"/>
 
 [![Solved](https://img.shields.io/badge/Solved-2/3064-337ab7.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 [![Easy](https://img.shields.io/badge/Easy-1-5cb85c.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
