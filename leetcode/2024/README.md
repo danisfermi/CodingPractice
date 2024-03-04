@@ -3,10 +3,10 @@
 <div align="center">
 <img src="https://github.com/danisfermi/CodingPractice/raw/main/leetcode/leetcode-ico.png" width="450" height="auto"/>
 
-[![Solved](https://img.shields.io/badge/Solved-11/3064-337ab7.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
+[![Solved](https://img.shields.io/badge/Solved-12/3064-337ab7.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 [![Easy](https://img.shields.io/badge/Easy-2-5cb85c.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 [![Medium](https://img.shields.io/badge/Medium-8-f0ad4e.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
-[![Hard](https://img.shields.io/badge/Hard-1-d9534f.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
+[![Hard](https://img.shields.io/badge/Hard-2-d9534f.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 </br>
 [![Languages](https://img.shields.io/badge/Languages-Python-red.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 [![Author](https://img.shields.io/badge/Author-Danis%20Fermi-blue.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
@@ -26,6 +26,7 @@ _All solutions are orderd by: Solution #_
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/19/removeNthFromEnd.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |72|[Edit Distance](https://leetcode.com/problems/edit-distance/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/72/minDistance.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |97|[Interleaving String](https://leetcode.com/problems/interleaving-string/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/97/isInterleave.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
+|115|[Distinct Subsequences](115. Distinct Subsequences) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/115/numDistinct.py)|![Hard](https://img.shields.io/badge/Hard-d9534f.svg?style=flat)|
 |309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/309/maxProfit.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/329/longestIncreasingPath.py)|![Hard](https://img.shields.io/badge/Hard-d9534f.svg?style=flat)|
 |494|[Target Sum](https://leetcode.com/problems/target-sum/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/494/findTargetSumWays.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
