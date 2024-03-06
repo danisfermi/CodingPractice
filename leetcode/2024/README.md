@@ -3,9 +3,9 @@
 <div align="center">
 <img src="https://github.com/danisfermi/CodingPractice/raw/main/leetcode/leetcode-ico.png" width="450" height="auto"/>
 
-[![Solved](https://img.shields.io/badge/Solved-12/3064-337ab7.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
+[![Solved](https://img.shields.io/badge/Solved-13/3064-337ab7.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 [![Easy](https://img.shields.io/badge/Easy-2-5cb85c.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
-[![Medium](https://img.shields.io/badge/Medium-8-f0ad4e.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
+[![Medium](https://img.shields.io/badge/Medium-9-f0ad4e.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 [![Hard](https://img.shields.io/badge/Hard-2-d9534f.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 </br>
 [![Languages](https://img.shields.io/badge/Languages-Python-red.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
@@ -35,4 +35,5 @@ _All solutions are orderd by: Solution #_
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/977/sortedSquares.py)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
 |1143|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/1143/longestCommonSubsequence.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |1609|[Even Odd Tree](https://leetcode.com/problems/even-odd-tree/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/1609/isEvenOddTree.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
+|1750|[Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/1750/minimumLength.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |2864|[Maximum Odd Binary Number](https://leetcode.com/problems/maximum-odd-binary-number/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/2864/maximumOddBinaryNumber.py)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
