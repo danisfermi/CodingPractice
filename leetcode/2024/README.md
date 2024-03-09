@@ -3,8 +3,8 @@
 <div align="center">
 <img src="https://github.com/danisfermi/CodingPractice/raw/main/leetcode/leetcode-ico.png" width="450" height="auto"/>
 
-[![Solved](https://img.shields.io/badge/Solved-21/3064-337ab7.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
-[![Easy](https://img.shields.io/badge/Easy-6-5cb85c.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
+[![Solved](https://img.shields.io/badge/Solved-22/3064-337ab7.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
+[![Easy](https://img.shields.io/badge/Easy-7-5cb85c.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 [![Medium](https://img.shields.io/badge/Medium-11-f0ad4e.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 [![Hard](https://img.shields.io/badge/Hard-4-d9534f.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 </br>
@@ -32,6 +32,7 @@ _All solutions are orderd by: Solution #_
 |309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/309/maxProfit.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |312|[Burst Balloons](https://leetcode.com/problems/burst-balloons/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/312/maxCoins.py)|![Hard](https://img.shields.io/badge/Hard-d9534f.svg?style=flat)|
 |329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/329/longestIncreasingPath.py)|![Hard](https://img.shields.io/badge/Hard-d9534f.svg?style=flat)|
+|349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/349/intersection.py)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
 |494|[Target Sum](https://leetcode.com/problems/target-sum/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/494/findTargetSumWays.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |518|[Coin Change II](https://leetcode.com/problems/coin-change-ii/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/518/change.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |705|[Design Hashset](https://leetcode.com/problems/design-hashset/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/705/hashSet.py)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
