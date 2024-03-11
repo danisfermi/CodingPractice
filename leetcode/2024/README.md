@@ -3,8 +3,8 @@
 <div align="center">
 <img src="https://github.com/danisfermi/CodingPractice/raw/main/leetcode/leetcode-ico.png" width="450" height="auto"/>
 
-[![Solved](https://img.shields.io/badge/Solved-26/3064-337ab7.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
-[![Easy](https://img.shields.io/badge/Easy-9-5cb85c.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
+[![Solved](https://img.shields.io/badge/Solved-27/3064-337ab7.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
+[![Easy](https://img.shields.io/badge/Easy-10-5cb85c.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 [![Medium](https://img.shields.io/badge/Medium-13-f0ad4e.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 [![Hard](https://img.shields.io/badge/Hard-4-d9534f.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 </br>
@@ -48,6 +48,7 @@ _All solutions are orderd by: Solution #_
 |1626|[Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/1626/bestTeamScore.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |1750|[Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/1750/minimumLength.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |2215|[Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/2215/findDifference.py)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
+|2248|[Intersection of Multiple Arrays](https://leetcode.com/problems/intersection-of-multiple-arrays/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/2248/intersection.py)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
 |2540|[Minimum Common Value](https://leetcode.com/problems/minimum-common-value/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/2540/getCommon.py)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
 |2864|[Maximum Odd Binary Number](https://leetcode.com/problems/maximum-odd-binary-number/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/2864/maximumOddBinaryNumber.py)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
 |3005|[Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/3005/maxFrequencyElements.py)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
