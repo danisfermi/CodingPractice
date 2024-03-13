@@ -3,9 +3,9 @@
 <div align="center">
 <img src="https://github.com/danisfermi/CodingPractice/raw/main/leetcode/leetcode-ico.png" width="450" height="auto"/>
 
-[![Solved](https://img.shields.io/badge/Solved-31/3064-337ab7.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
+[![Solved](https://img.shields.io/badge/Solved-32/3064-337ab7.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 [![Easy](https://img.shields.io/badge/Easy-11-5cb85c.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
-[![Medium](https://img.shields.io/badge/Medium-16-f0ad4e.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
+[![Medium](https://img.shields.io/badge/Medium-17-f0ad4e.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 [![Hard](https://img.shields.io/badge/Hard-4-d9534f.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 </br>
 [![Languages](https://img.shields.io/badge/Languages-Python-red.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
@@ -41,6 +41,7 @@ _All solutions are orderd by: Solution #_
 |791|[Custom Sort String](https://leetcode.com/problems/custom-sort-string/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/791/customSortString.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |807|[Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/807/eventualSafeNodes.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/876/middleNode.py)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
+|909|[Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/909/snakesAndLadders.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |918|[Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/918/maxSubarraySumCircular.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |948|[Bag of Tokens](https://leetcode.com/problems/bag-of-tokens) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/948/bagOfTokensScore.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/977/sortedSquares.py)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
