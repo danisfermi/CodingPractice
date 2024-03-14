@@ -3,8 +3,8 @@
 <div align="center">
 <img src="https://github.com/danisfermi/CodingPractice/raw/main/leetcode/leetcode-ico.png" width="450" height="auto"/>
 
-[![Solved](https://img.shields.io/badge/Solved-33/3064-337ab7.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
-[![Easy](https://img.shields.io/badge/Easy-11-5cb85c.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
+[![Solved](https://img.shields.io/badge/Solved-34/3064-337ab7.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
+[![Easy](https://img.shields.io/badge/Easy-12-5cb85c.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 [![Medium](https://img.shields.io/badge/Medium-18-f0ad4e.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 [![Hard](https://img.shields.io/badge/Hard-4-d9534f.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 </br>
@@ -29,6 +29,7 @@ _All solutions are orderd by: Solution #_
 |97|[Interleaving String](https://leetcode.com/problems/interleaving-string/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/97/isInterleave.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |115|[Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/115/numDistinct.py)|![Hard](https://img.shields.io/badge/Hard-d9534f.svg?style=flat)|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/141/hasCycle.py)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
+|169|[Majority Element](https://leetcode.com/problems/majority-element/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/169/majorityElement.py)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
 |221|[Maximal Square](https://leetcode.com/problems/maximal-square/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/221/maximalSquare.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/309/maxProfit.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |312|[Burst Balloons](https://leetcode.com/problems/burst-balloons/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/312/maxCoins.py)|![Hard](https://img.shields.io/badge/Hard-d9534f.svg?style=flat)|
