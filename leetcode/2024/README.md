@@ -3,9 +3,9 @@
 <div align="center">
 <img src="https://github.com/danisfermi/CodingPractice/raw/main/leetcode/leetcode-ico.png" width="450" height="auto"/>
 
-[![Solved](https://img.shields.io/badge/Solved-40/3064-337ab7.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
+[![Solved](https://img.shields.io/badge/Solved-41/3064-337ab7.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 [![Easy](https://img.shields.io/badge/Easy-14-5cb85c.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
-[![Medium](https://img.shields.io/badge/Medium-23-f0ad4e.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
+[![Medium](https://img.shields.io/badge/Medium-24-f0ad4e.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 [![Hard](https://img.shields.io/badge/Hard-4-d9534f.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 </br>
 [![Languages](https://img.shields.io/badge/Languages-Python-red.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
@@ -58,6 +58,7 @@ _All solutions are orderd by: Solution #_
 |1609|[Even Odd Tree](https://leetcode.com/problems/even-odd-tree/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/1609/isEvenOddTree.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |1626|[Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/1626/bestTeamScore.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |1750|[Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/1750/minimumLength.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
+|1921|[Eliminate Maximum Number of Monsters](https://leetcode.com/problems/eliminate-maximum-number-of-monsters/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/1921/eliminateMaximum.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |2085|[Count Common Words With One Occurrence](https://leetcode.com/problems/count-common-words-with-one-occurrence/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/2085/countWords.py)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
 |2215|[Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/2215/findDifference.py)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
 |2248|[Intersection of Multiple Arrays](https://leetcode.com/problems/intersection-of-multiple-arrays/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/2248/intersection.py)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
