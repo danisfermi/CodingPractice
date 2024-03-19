@@ -3,9 +3,9 @@
 <div align="center">
 <img src="https://github.com/danisfermi/CodingPractice/raw/main/leetcode/leetcode-ico.png" width="450" height="auto"/>
 
-[![Solved](https://img.shields.io/badge/Solved-49/3064-337ab7.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
+[![Solved](https://img.shields.io/badge/Solved-50/3064-337ab7.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 [![Easy](https://img.shields.io/badge/Easy-15-5cb85c.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
-[![Medium](https://img.shields.io/badge/Medium-31-f0ad4e.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
+[![Medium](https://img.shields.io/badge/Medium-32-f0ad4e.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 [![Hard](https://img.shields.io/badge/Hard-4-d9534f.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 </br>
 [![Languages](https://img.shields.io/badge/Languages-Python-red.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
@@ -47,6 +47,7 @@ _All solutions are orderd by: Solution #_
 |518|[Coin Change II](https://leetcode.com/problems/coin-change-ii/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/518/change.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |525|[Contiguous Array](https://leetcode.com/problems/contiguous-array/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/525/findMaxLength.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |621|[Task Scheduler](https://leetcode.com/problems/task-scheduler/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/621/leastInterval.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
+|649|[Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/649/predictPartyVictory.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |705|[Design Hashset](https://leetcode.com/problems/design-hashset/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/705/hashSet.py)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
 |791|[Custom Sort String](https://leetcode.com/problems/custom-sort-string/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/791/customSortString.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |807|[Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/807/eventualSafeNodes.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
