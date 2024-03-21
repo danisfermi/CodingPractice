@@ -3,8 +3,8 @@
 <div align="center">
 <img src="https://github.com/danisfermi/CodingPractice/raw/main/leetcode/leetcode-ico.png" width="450" height="auto"/>
 
-[![Solved](https://img.shields.io/badge/Solved-52/3064-337ab7.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
-[![Easy](https://img.shields.io/badge/Easy-16-5cb85c.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
+[![Solved](https://img.shields.io/badge/Solved-54/3064-337ab7.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
+[![Easy](https://img.shields.io/badge/Easy-17-5cb85c.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 [![Medium](https://img.shields.io/badge/Medium-33-f0ad4e.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 [![Hard](https://img.shields.io/badge/Hard-4-d9534f.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 </br>
@@ -58,6 +58,7 @@ _All solutions are orderd by: Solution #_
 |930|[Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/930/numSubarraysWithSum.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |948|[Bag of Tokens](https://leetcode.com/problems/bag-of-tokens) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/948/bagOfTokensScore.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |953|[Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/953/isAlienSorted.py)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
+|989|[Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/989/addToArrayForm.py)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/977/sortedSquares.py)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
 |1143|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/1143/longestCommonSubsequence.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |1171|[Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/1171/removeZeroSumSublists.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
