@@ -3,8 +3,8 @@
 <div align="center">
 <img src="https://github.com/danisfermi/CodingPractice/raw/main/leetcode/leetcode-ico.png" width="450" height="auto"/>
 
-[![Solved](https://img.shields.io/badge/Solved-54/3064-337ab7.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
-[![Easy](https://img.shields.io/badge/Easy-17-5cb85c.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
+[![Solved](https://img.shields.io/badge/Solved-55/3064-337ab7.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
+[![Easy](https://img.shields.io/badge/Easy-18-5cb85c.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 [![Medium](https://img.shields.io/badge/Medium-33-f0ad4e.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 [![Hard](https://img.shields.io/badge/Hard-4-d9534f.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 </br>
@@ -34,6 +34,7 @@ _All solutions are orderd by: Solution #_
 |136|[Single Number](https://leetcode.com/problems/single-number/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/136/singleNumber.py)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/141/hasCycle.py)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/169/majorityElement.py)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
+|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/206/reverseList.py)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
 |221|[Maximal Square](https://leetcode.com/problems/maximal-square/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/221/maximalSquare.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/229/majorityElement.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/238/productExceptSelf.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
