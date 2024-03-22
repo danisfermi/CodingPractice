@@ -3,8 +3,8 @@
 <div align="center">
 <img src="https://github.com/danisfermi/CodingPractice/raw/main/leetcode/leetcode-ico.png" width="450" height="auto"/>
 
-[![Solved](https://img.shields.io/badge/Solved-58/3064-337ab7.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
-[![Easy](https://img.shields.io/badge/Easy-18-5cb85c.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
+[![Solved](https://img.shields.io/badge/Solved-59/3064-337ab7.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
+[![Easy](https://img.shields.io/badge/Easy-19-5cb85c.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 [![Medium](https://img.shields.io/badge/Medium-36-f0ad4e.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 [![Hard](https://img.shields.io/badge/Hard-4-d9534f.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 </br>
@@ -39,6 +39,7 @@ _All solutions are orderd by: Solution #_
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/206/reverseList.py)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
 |221|[Maximal Square](https://leetcode.com/problems/maximal-square/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/221/maximalSquare.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/229/majorityElement.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
+|234|[Palindrom Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/234/isPalindrome.py)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/238/productExceptSelf.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/309/maxProfit.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |312|[Burst Balloons](https://leetcode.com/problems/burst-balloons/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/312/maxCoins.py)|![Hard](https://img.shields.io/badge/Hard-d9534f.svg?style=flat)|
