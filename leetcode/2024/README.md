@@ -3,8 +3,8 @@
 <div align="center">
 <img src="https://github.com/danisfermi/CodingPractice/raw/main/leetcode/leetcode-ico.png" width="450" height="auto"/>
 
-[![Solved](https://img.shields.io/badge/Solved-62/3064-337ab7.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
-[![Easy](https://img.shields.io/badge/Easy-19-5cb85c.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
+[![Solved](https://img.shields.io/badge/Solved-63/3064-337ab7.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
+[![Easy](https://img.shields.io/badge/Easy-20-5cb85c.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 [![Medium](https://img.shields.io/badge/Medium-38-f0ad4e.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 [![Hard](https://img.shields.io/badge/Hard-5-d9534f.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 </br>
@@ -63,6 +63,7 @@ _All solutions are orderd by: Solution #_
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/876/middleNode.py)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
 |909|[Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/909/snakesAndLadders.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |918|[Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/918/maxSubarraySumCircular.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
+|929|[Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/929/numUniqueEmails.py)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
 |930|[Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/930/numSubarraysWithSum.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |948|[Bag of Tokens](https://leetcode.com/problems/bag-of-tokens) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/948/bagOfTokensScore.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |953|[Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/953/isAlienSorted.py)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
