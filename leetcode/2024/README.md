@@ -3,8 +3,8 @@
 <div align="center">
 <img src="https://github.com/danisfermi/CodingPractice/raw/main/leetcode/leetcode-ico.png" width="450" height="auto"/>
 
-[![Solved](https://img.shields.io/badge/Solved-68/3064-337ab7.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
-[![Easy](https://img.shields.io/badge/Easy-21-5cb85c.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
+[![Solved](https://img.shields.io/badge/Solved-69/3064-337ab7.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
+[![Easy](https://img.shields.io/badge/Easy-22-5cb85c.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 [![Medium](https://img.shields.io/badge/Medium-42-f0ad4e.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 [![Hard](https://img.shields.io/badge/Hard-5-d9534f.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 </br>
@@ -40,6 +40,7 @@ _All solutions are orderd by: Solution #_
 |169|[Majority Element](https://leetcode.com/problems/majority-element/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/169/majorityElement.py)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
 |201|[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/201/rangeBitwiseAnd.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/206/reverseList.py)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
+|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/217/containsDuplicate.py)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
 |221|[Maximal Square](https://leetcode.com/problems/maximal-square/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/221/maximalSquare.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/225/stack.py)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
 |229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/229/majorityElement.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
