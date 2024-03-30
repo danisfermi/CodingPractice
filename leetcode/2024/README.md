@@ -3,9 +3,9 @@
 <div align="center">
 <img src="https://github.com/danisfermi/CodingPractice/raw/main/leetcode/leetcode-ico.png" width="450" height="auto"/>
 
-[![Solved](https://img.shields.io/badge/Solved-74/3064-337ab7.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
+[![Solved](https://img.shields.io/badge/Solved-75/3064-337ab7.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 [![Easy](https://img.shields.io/badge/Easy-24-5cb85c.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
-[![Medium](https://img.shields.io/badge/Medium-44-f0ad4e.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
+[![Medium](https://img.shields.io/badge/Medium-45-f0ad4e.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 [![Hard](https://img.shields.io/badge/Hard-6-d9534f.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 </br>
 [![Languages-Python](https://img.shields.io/badge/Languages-Python-red.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)[![Languages-C++](https://img.shields.io/badge/C++-green.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
@@ -27,6 +27,7 @@ _All solutions are orderd by: Solution #_
 |10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/10/isMatch.py)|![Hard](https://img.shields.io/badge/Hard-d9534f.svg?style=flat)|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/19/removeNthFromEnd.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/41/firstMissingPositive.py)|![Hard](https://img.shields.io/badge/Hard-d9534f.svg?style=flat)|
+|49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/49/groupAnagrams.py)[![C++](https://img.shields.io/badge/C++--337ab7.svg?style=flat)](./cpp/49/groupAnagrams.cpp) |![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/53/maxSubArray.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/54/spiralOrder.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |57|[Insert Interval](https://leetcode.com/problems/insert-interval/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/57/insert.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
