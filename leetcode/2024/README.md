@@ -3,8 +3,8 @@
 <div align="center">
 <img src="https://github.com/danisfermi/CodingPractice/raw/main/leetcode/leetcode-ico.png" width="450" height="auto"/>
 
-[![Solved](https://img.shields.io/badge/Solved-72/3064-337ab7.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
-[![Easy](https://img.shields.io/badge/Easy-22-5cb85c.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
+[![Solved](https://img.shields.io/badge/Solved-73/3064-337ab7.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
+[![Easy](https://img.shields.io/badge/Easy-23-5cb85c.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 [![Medium](https://img.shields.io/badge/Medium-44-f0ad4e.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 [![Hard](https://img.shields.io/badge/Hard-6-d9534f.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 </br>
@@ -47,6 +47,7 @@ _All solutions are orderd by: Solution #_
 |229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/229/majorityElement.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |234|[Palindrom Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/234/isPalindrome.py)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/238/productExceptSelf.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
+|242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/242/isAnagram.py) [![C++](https://img.shields.io/badge/C++--337ab7.svg?style=flat)](./cpp/242/isAnagram.cpp)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/287/findDuplicate.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/297/codec.py)|![Hard](https://img.shields.io/badge/Hard-d9534f.svg?style=flat)|
 |309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/309/maxProfit.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
