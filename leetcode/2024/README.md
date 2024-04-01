@@ -3,8 +3,8 @@
 <div align="center">
 <img src="https://github.com/danisfermi/CodingPractice/raw/main/leetcode/leetcode-ico.png" width="450" height="auto"/>
 
-[![Solved](https://img.shields.io/badge/Solved-77/3064-337ab7.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
-[![Easy](https://img.shields.io/badge/Easy-24-5cb85c.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
+[![Solved](https://img.shields.io/badge/Solved-78/3064-337ab7.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
+[![Easy](https://img.shields.io/badge/Easy-25-5cb85c.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 [![Medium](https://img.shields.io/badge/Medium-47-f0ad4e.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 [![Hard](https://img.shields.io/badge/Hard-6-d9534f.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 </br>
@@ -32,6 +32,7 @@ _All solutions are orderd by: Solution #_
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/54/spiralOrder.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |57|[Insert Interval](https://leetcode.com/problems/insert-interval/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/57/insert.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/58/lengthOfLastWord.py)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
+|66|[Plus One](https://leetcode.com/problems/plus-one/) | [![C++](https://img.shields.io/badge/C++--337ab7.svg?style=flat)](./cpp/66/plusOne.cpp)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
 |72|[Edit Distance](https://leetcode.com/problems/edit-distance/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/72/minDistance.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |97|[Interleaving String](https://leetcode.com/problems/interleaving-string/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/97/isInterleave.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [![Python](https://img.shields.io/badge/Python--337ab7.svg?style=flat)](./python/103/zigzagLevelOrder.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
