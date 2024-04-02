@@ -3,8 +3,8 @@
 <div align="center">
 <img src="https://github.com/danisfermi/CodingPractice/raw/main/leetcode/leetcode-ico.png" width="450" height="auto"/>
 
-[![Solved](https://img.shields.io/badge/Solved-78/3064-337ab7.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
-[![Easy](https://img.shields.io/badge/Easy-25-5cb85c.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
+[![Solved](https://img.shields.io/badge/Solved-79/3064-337ab7.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
+[![Easy](https://img.shields.io/badge/Easy-26-5cb85c.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 [![Medium](https://img.shields.io/badge/Medium-47-f0ad4e.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 [![Hard](https://img.shields.io/badge/Hard-6-d9534f.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 </br>
@@ -45,6 +45,7 @@ _All solutions are orderd by: Solution #_
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/162/findPeakElement.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/169/majorityElement.py)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
 |201|[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/201/rangeBitwiseAnd.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
+|205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [![C++](https://img.shields.io/badge/C++--8a5cb8.svg?style=flat)](./cpp/205/isIsomorphic.py)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/206/reverseList.py)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/217/containsDuplicate.py) [![C++](https://img.shields.io/badge/C++--8b0000.svg?style=flat)](./cpp/217/containsDuplicate.cpp)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
 |221|[Maximal Square](https://leetcode.com/problems/maximal-square/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/221/maximalSquare.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
