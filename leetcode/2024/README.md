@@ -3,10 +3,10 @@
 <div align="center">
 <img src="https://github.com/danisfermi/CodingPractice/raw/main/leetcode/leetcode-ico.png" width="450" height="auto"/>
 
-[![Solved](https://img.shields.io/badge/Solved-88/3064-337ab7.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
+[![Solved](https://img.shields.io/badge/Solved-89/3064-337ab7.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 [![Easy](https://img.shields.io/badge/Easy-28-5cb85c.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 [![Medium](https://img.shields.io/badge/Medium-53-f0ad4e.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
-[![Hard](https://img.shields.io/badge/Hard-7-d9534f.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
+[![Hard](https://img.shields.io/badge/Hard-8-d9534f.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 </br>
 [![Languages-Python](https://img.shields.io/badge/Languages-Python-red.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)[![Languages-C++](https://img.shields.io/badge/C++-green.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 [![Author](https://img.shields.io/badge/Author-Danis%20Fermi-blue.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
@@ -36,6 +36,7 @@ _All solutions are orderd by: Solution #_
 |66|[Plus One](https://leetcode.com/problems/plus-one/) | [![C++](https://img.shields.io/badge/C++--8b0000.svg?style=flat)](./cpp/66/plusOne.cpp)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
 |72|[Edit Distance](https://leetcode.com/problems/edit-distance/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/72/minDistance.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |79|[Word Search](https://leetcode.com/problems/word-search/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/79/exist.py)[![C++](https://img.shields.io/badge/C++--8b0000.svg?style=flat)](./cpp/79/exist.cpp)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
+|84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/84/largestRectangleArea.py)|![Hard](https://img.shields.io/badge/Hard-d9534f.svg?style=flat)|
 |97|[Interleaving String](https://leetcode.com/problems/interleaving-string/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/97/isInterleave.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/103/zigzagLevelOrder.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |115|[Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/115/numDistinct.py)|![Hard](https://img.shields.io/badge/Hard-d9534f.svg?style=flat)|
