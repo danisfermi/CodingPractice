@@ -3,8 +3,8 @@
 <div align="center">
 <img src="https://github.com/danisfermi/CodingPractice/raw/main/leetcode/leetcode-ico.png" width="450" height="auto"/>
 
-[![Solved](https://img.shields.io/badge/Solved-84/3064-337ab7.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
-[![Easy](https://img.shields.io/badge/Easy-27-5cb85c.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
+[![Solved](https://img.shields.io/badge/Solved-85/3064-337ab7.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
+[![Easy](https://img.shields.io/badge/Easy-28-5cb85c.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 [![Medium](https://img.shields.io/badge/Medium-50-f0ad4e.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 [![Hard](https://img.shields.io/badge/Hard-7-d9534f.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 </br>
@@ -92,6 +92,7 @@ _All solutions are orderd by: Solution #_
 |1268|[Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/1268/suggestedProducts.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |1323|[Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/1323/maximum69Number.py)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
 |1343|[Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/1343/numOfSubarrays.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
+|1544|[Make The String Great](https://leetcode.com/problems/make-the-string-great/?envType=daily-question&envId=2024-04-05) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/1544/makeGood.py) |![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
 |1609|[Even Odd Tree](https://leetcode.com/problems/even-odd-tree/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/1609/isEvenOddTree.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |1614|[Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | [![C++](https://img.shields.io/badge/C++--8b0000.svg?style=flat)](./cpp/1614/maxDepth.cpp) |![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
 |1626|[Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/1626/bestTeamScore.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
