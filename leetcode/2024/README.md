@@ -3,9 +3,9 @@
 <div align="center">
 <img src="https://github.com/danisfermi/CodingPractice/raw/main/leetcode/leetcode-ico.png" width="450" height="auto"/>
 
-[![Solved](https://img.shields.io/badge/Solved-93/3064-337ab7.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
+[![Solved](https://img.shields.io/badge/Solved-94/3064-337ab7.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 [![Easy](https://img.shields.io/badge/Easy-28-5cb85c.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
-[![Medium](https://img.shields.io/badge/Medium-56-f0ad4e.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
+[![Medium](https://img.shields.io/badge/Medium-57-f0ad4e.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 [![Hard](https://img.shields.io/badge/Hard-9-d9534f.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 </br>
 [![Languages-Python](https://img.shields.io/badge/Languages-Python-red.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)[![Languages-C++](https://img.shields.io/badge/C++-green.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
@@ -114,6 +114,7 @@ _All solutions are orderd by: Solution #_
 |2248|[Intersection of Multiple Arrays](https://leetcode.com/problems/intersection-of-multiple-arrays/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/2248/intersection.py)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
 |2348|[Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/2348/zeroFilledSubarray.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |2540|[Minimum Common Value](https://leetcode.com/problems/minimum-common-value/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/2540/getCommon.py)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
+|2542|[Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/2542/maxScore.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |2864|[Maximum Odd Binary Number](https://leetcode.com/problems/maximum-odd-binary-number/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/2864/maximumOddBinaryNumber.py)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
 |2958|[Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/) | [![C++](https://img.shields.io/badge/C++--8b0000.svg?style=flat)](./cpp/2958/maxSubarrayLength.cpp)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |2962|[Count Subarrays Where Max Element Appears at Least K Times](https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/) | [![C++](https://img.shields.io/badge/C++--8b0000.svg?style=flat)](./cpp/2962/countSubarrays.cpp)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
