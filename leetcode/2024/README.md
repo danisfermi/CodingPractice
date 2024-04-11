@@ -3,9 +3,9 @@
 <div align="center">
 <img src="https://github.com/danisfermi/CodingPractice/raw/main/leetcode/leetcode-ico.png" width="450" height="auto"/>
 
-[![Solved](https://img.shields.io/badge/Solved-99/3064-337ab7.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
+[![Solved](https://img.shields.io/badge/Solved-100/3064-337ab7.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 [![Easy](https://img.shields.io/badge/Easy-30-5cb85c.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
-[![Medium](https://img.shields.io/badge/Medium-60-f0ad4e.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
+[![Medium](https://img.shields.io/badge/Medium-61-f0ad4e.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 [![Hard](https://img.shields.io/badge/Hard-9-d9534f.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 </br>
 [![Languages-Python](https://img.shields.io/badge/Languages-Python-red.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)[![Languages-C++](https://img.shields.io/badge/C++-green.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
@@ -93,6 +93,7 @@ _All solutions are orderd by: Solution #_
 |929|[Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/929/numUniqueEmails.py)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
 |930|[Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/930/numSubarraysWithSum.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |948|[Bag of Tokens](https://leetcode.com/problems/bag-of-tokens) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/948/bagOfTokensScore.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
+|950|[Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/950/deckRevealedIncreasing.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |953|[Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/953/isAlienSorted.py)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
 |989|[Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/989/addToArrayForm.py)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/977/sortedSquares.py)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
