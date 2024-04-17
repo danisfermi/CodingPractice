@@ -3,9 +3,9 @@
 <div align="center">
 <img src="https://github.com/danisfermi/CodingPractice/raw/main/leetcode/leetcode-ico.png" width="450" height="auto"/>
 
-[![Solved](https://img.shields.io/badge/Solved-109/3064-337ab7.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
+[![Solved](https://img.shields.io/badge/Solved-110/3064-337ab7.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 [![Easy](https://img.shields.io/badge/Easy-33-5cb85c.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
-[![Medium](https://img.shields.io/badge/Medium-66-f0ad4e.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
+[![Medium](https://img.shields.io/badge/Medium-67-f0ad4e.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 [![Hard](https://img.shields.io/badge/Hard-10-d9534f.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 </br>
 [![Languages-Python](https://img.shields.io/badge/Languages-Python-red.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)[![Languages-C++](https://img.shields.io/badge/C++-green.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
@@ -120,6 +120,7 @@ _All solutions are orderd by: Solution #_
 |1888|[Minimum Number of Flips to Make the Binary String Alternating](https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/1888/minFlips.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |1899|[Merge Triplets to Form Target Triplet](https://leetcode.com/problems/merge-triplets-to-form-target-triplet/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/1899/mergeTriplets.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |1921|[Eliminate Maximum Number of Monsters](https://leetcode.com/problems/eliminate-maximum-number-of-monsters/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/1921/eliminateMaximum.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
+|1980|[Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/1980/findDifferentBinaryString.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |2073|[Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/2073/timeRequiredToBuy.py)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
 |2085|[Count Common Words With One Occurrence](https://leetcode.com/problems/count-common-words-with-one-occurrence/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/2085/countWords.py)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
 |2101|[Detonate the Maximum Bombs](https://leetcode.com/problems/detonate-the-maximum-bombs/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/2101/maximumDetonation.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
