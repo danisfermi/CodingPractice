@@ -3,9 +3,9 @@
 <div align="center">
 <img src="https://github.com/danisfermi/CodingPractice/raw/main/leetcode/leetcode-ico.png" width="450" height="auto"/>
 
-[![Solved](https://img.shields.io/badge/Solved-111/3064-337ab7.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
+[![Solved](https://img.shields.io/badge/Solved-112/3064-337ab7.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 [![Easy](https://img.shields.io/badge/Easy-33-5cb85c.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
-[![Medium](https://img.shields.io/badge/Medium-68-f0ad4e.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
+[![Medium](https://img.shields.io/badge/Medium-69-f0ad4e.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 [![Hard](https://img.shields.io/badge/Hard-10-d9534f.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 </br>
 [![Languages-Python](https://img.shields.io/badge/Languages-Python-red.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)[![Languages-C++](https://img.shields.io/badge/C++-green.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
@@ -50,6 +50,7 @@ _All solutions are orderd by: Solution #_
 |136|[Single Number](https://leetcode.com/problems/single-number/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/136/singleNumber.py)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/141/hasCycle.py)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
 |143|[Reorder List](https://leetcode.com/problems/reorder-list/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/143/reorderList.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
+|146|[LRU Cache](https://leetcode.com/problems/lru-cache/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/146/LRUCache.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/162/findPeakElement.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/169/majorityElement.py)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
 |201|[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/201/rangeBitwiseAnd.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
