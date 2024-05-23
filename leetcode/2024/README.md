@@ -3,8 +3,8 @@
 <div align="center">
 <img src="https://github.com/danisfermi/CodingPractice/raw/main/leetcode/leetcode-ico.png" width="450" height="auto"/>
 
-[![Solved](https://img.shields.io/badge/Solved-112/3064-337ab7.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
-[![Easy](https://img.shields.io/badge/Easy-33-5cb85c.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
+[![Solved](https://img.shields.io/badge/Solved-113/3064-337ab7.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
+[![Easy](https://img.shields.io/badge/Easy-34-5cb85c.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 [![Medium](https://img.shields.io/badge/Medium-69-f0ad4e.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 [![Hard](https://img.shields.io/badge/Hard-10-d9534f.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 </br>
@@ -130,6 +130,7 @@ _All solutions are orderd by: Solution #_
 |2215|[Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/2215/findDifference.py)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
 |2248|[Intersection of Multiple Arrays](https://leetcode.com/problems/intersection-of-multiple-arrays/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/2248/intersection.py)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
 |2348|[Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/2348/zeroFilledSubarray.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
+|2373|[Largest Local Values in a Matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/2373/largestLocal.py)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
 |2483|[Minimum Penalty for a Shop](https://leetcode.com/problems/minimum-penalty-for-a-shop/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/2483/bestClosingTime.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |2540|[Minimum Common Value](https://leetcode.com/problems/minimum-common-value/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/2540/getCommon.py)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
 |2542|[Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/2542/maxScore.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
