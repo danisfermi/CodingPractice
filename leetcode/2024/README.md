@@ -3,10 +3,10 @@
 <div align="center">
 <img src="https://github.com/danisfermi/CodingPractice/raw/main/leetcode/leetcode-ico.png" width="450" height="auto"/>
 
-[![Solved](https://img.shields.io/badge/Solved-117/3064-337ab7.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
+[![Solved](https://img.shields.io/badge/Solved-118/3064-337ab7.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 [![Easy](https://img.shields.io/badge/Easy-34-5cb85c.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 [![Medium](https://img.shields.io/badge/Medium-72-f0ad4e.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
-[![Hard](https://img.shields.io/badge/Hard-11-d9534f.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
+[![Hard](https://img.shields.io/badge/Hard-12-d9534f.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 </br>
 [![Languages-Python](https://img.shields.io/badge/Languages-Python-red.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)[![Languages-C++](https://img.shields.io/badge/C++-green.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 [![Author](https://img.shields.io/badge/Author-Danis%20Fermi-blue.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
@@ -123,6 +123,7 @@ _All solutions are orderd by: Solution #_
 |1669|[Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/1669/mergeInBetween.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |1700|[Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/1700/countStudents.py)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
 |1750|[Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/1750/minimumLength.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
+|1851|[Minimum Interval to Include Each Query](https://leetcode.com/problems/minimum-interval-to-include-each-query/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/1851/minInterval.py)|![Hard](https://img.shields.io/badge/Hard-d9534f.svg?style=flat)|
 |1888|[Minimum Number of Flips to Make the Binary String Alternating](https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/1888/minFlips.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |1899|[Merge Triplets to Form Target Triplet](https://leetcode.com/problems/merge-triplets-to-form-target-triplet/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/1899/mergeTriplets.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |1921|[Eliminate Maximum Number of Monsters](https://leetcode.com/problems/eliminate-maximum-number-of-monsters/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/1921/eliminateMaximum.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
