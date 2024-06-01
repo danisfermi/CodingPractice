@@ -3,9 +3,9 @@
 <div align="center">
 <img src="https://github.com/danisfermi/CodingPractice/raw/main/leetcode/leetcode-ico.png" width="450" height="auto"/>
 
-[![Solved](https://img.shields.io/badge/Solved-118/3064-337ab7.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
+[![Solved](https://img.shields.io/badge/Solved-119/3064-337ab7.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 [![Easy](https://img.shields.io/badge/Easy-34-5cb85c.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
-[![Medium](https://img.shields.io/badge/Medium-72-f0ad4e.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
+[![Medium](https://img.shields.io/badge/Medium-73-f0ad4e.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 [![Hard](https://img.shields.io/badge/Hard-12-d9534f.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 </br>
 [![Languages-Python](https://img.shields.io/badge/Languages-Python-red.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)[![Languages-C++](https://img.shields.io/badge/C++-green.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
@@ -49,6 +49,7 @@ _All solutions are orderd by: Solution #_
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/122/maxProfit.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/129/sumNumbers.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/131/partition.py)[![C++](https://img.shields.io/badge/C++--8a5cb8.svg?style=flat)](./cpp/131/partition.cpp) |![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
+|134|[Gas Station](https://leetcode.com/problems/gas-station/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/134/canCompleteCircuit.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |136|[Single Number](https://leetcode.com/problems/single-number/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/136/singleNumber.py)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/141/hasCycle.py)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
 |143|[Reorder List](https://leetcode.com/problems/reorder-list/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/143/reorderList.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
