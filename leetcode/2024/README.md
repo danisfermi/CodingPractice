@@ -3,10 +3,10 @@
 <div align="center">
 <img src="https://github.com/danisfermi/CodingPractice/raw/main/leetcode/leetcode-ico.png" width="450" height="auto"/>
 
-[![Solved](https://img.shields.io/badge/Solved-120/3064-337ab7.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
+[![Solved](https://img.shields.io/badge/Solved-121/3064-337ab7.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 [![Easy](https://img.shields.io/badge/Easy-34-5cb85c.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 [![Medium](https://img.shields.io/badge/Medium-74-f0ad4e.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
-[![Hard](https://img.shields.io/badge/Hard-12-d9534f.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
+[![Hard](https://img.shields.io/badge/Hard-13-d9534f.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 </br>
 [![Languages-Python](https://img.shields.io/badge/Languages-Python-red.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)[![Languages-C++](https://img.shields.io/badge/C++-green.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 [![Author](https://img.shields.io/badge/Author-Danis%20Fermi-blue.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
@@ -65,6 +65,7 @@ _All solutions are orderd by: Solution #_
 |229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/229/majorityElement.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |234|[Palindrom Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/234/isPalindrome.py)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/238/productExceptSelf.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
+|239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/239/maxSlidingWindow.py)|![Hard](https://img.shields.io/badge/Hard-d9534f.svg?style=flat)|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/242/isAnagram.py) [![C++](https://img.shields.io/badge/C++--8b0000.svg?style=flat)](./cpp/242/isAnagram.cpp)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/263/isUgly.py) [![C++](https://img.shields.io/badge/C++--8b0000.svg?style=flat)](./cpp/263/isUgly.cpp)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/287/findDuplicate.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
