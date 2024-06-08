@@ -3,10 +3,10 @@
 <div align="center">
 <img src="https://github.com/danisfermi/CodingPractice/raw/main/leetcode/leetcode-ico.png" width="450" height="auto"/>
 
-[![Solved](https://img.shields.io/badge/Solved-125/3064-337ab7.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
+[![Solved](https://img.shields.io/badge/Solved-127/3064-337ab7.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 [![Easy](https://img.shields.io/badge/Easy-34-5cb85c.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
-[![Medium](https://img.shields.io/badge/Medium-78-f0ad4e.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
-[![Hard](https://img.shields.io/badge/Hard-13-d9534f.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
+[![Medium](https://img.shields.io/badge/Medium-79-f0ad4e.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
+[![Hard](https://img.shields.io/badge/Hard-14-d9534f.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 </br>
 [![Languages-Python](https://img.shields.io/badge/Languages-Python-red.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)[![Languages-C++](https://img.shields.io/badge/C++-green.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 [![Author](https://img.shields.io/badge/Author-Danis%20Fermi-blue.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
@@ -25,6 +25,7 @@ _All solutions are orderd by: Solution #_
 |---| ----- | -------- | ---------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/1/twoSum.py)[![C++](https://img.shields.io/badge/C++--8b0000.svg?style=flat)](./cpp/1/twoSum.cpp) |![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/2/addTwoNumbers.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
+|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/3/lengthOfLongestSubstring.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/10/isMatch.py)|![Hard](https://img.shields.io/badge/Hard-d9534f.svg?style=flat)|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/19/removeNthFromEnd.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-paranthesis/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/22/generateParenthesis.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
@@ -100,6 +101,7 @@ _All solutions are orderd by: Solution #_
 |678|[Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/678/checkValidString.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |701|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/701/insertIntoBST.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |705|[Design Hashset](https://leetcode.com/problems/design-hashset/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/705/hashSet.py)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
+|778|[Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/778/swimInWater.py)|![Hard](https://img.shields.io/badge/Hard-d9534f.svg?style=flat)|
 |787|[Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/787/findCheapestPrice.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |791|[Custom Sort String](https://leetcode.com/problems/custom-sort-string/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/791/customSortString.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |807|[Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/807/eventualSafeNodes.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
