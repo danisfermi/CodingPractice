@@ -3,8 +3,8 @@
 <div align="center">
 <img src="https://github.com/danisfermi/CodingPractice/raw/main/leetcode/leetcode-ico.png" width="450" height="auto"/>
 
-[![Solved](https://img.shields.io/badge/Solved-128/3064-337ab7.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
-[![Easy](https://img.shields.io/badge/Easy-34-5cb85c.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
+[![Solved](https://img.shields.io/badge/Solved-129/3064-337ab7.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
+[![Easy](https://img.shields.io/badge/Easy-35-5cb85c.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 [![Medium](https://img.shields.io/badge/Medium-80-f0ad4e.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 [![Hard](https://img.shields.io/badge/Hard-14-d9534f.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 </br>
@@ -27,6 +27,7 @@ _All solutions are orderd by: Solution #_
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/2/addTwoNumbers.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/3/lengthOfLongestSubstring.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/5/longestPalindrome.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
+|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/9/isPalindrome.py)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
 |10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/10/isMatch.py)|![Hard](https://img.shields.io/badge/Hard-d9534f.svg?style=flat)|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/19/removeNthFromEnd.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-paranthesis/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/22/generateParenthesis.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
