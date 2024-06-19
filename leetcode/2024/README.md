@@ -3,10 +3,10 @@
 <div align="center">
 <img src="https://github.com/danisfermi/CodingPractice/raw/main/leetcode/leetcode-ico.png" width="450" height="auto"/>
 
-[![Solved](https://img.shields.io/badge/Solved-136/3064-337ab7.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
+[![Solved](https://img.shields.io/badge/Solved-137/3064-337ab7.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 [![Easy](https://img.shields.io/badge/Easy-38-5cb85c.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 [![Medium](https://img.shields.io/badge/Medium-83-f0ad4e.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
-[![Hard](https://img.shields.io/badge/Hard-15-d9534f.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
+[![Hard](https://img.shields.io/badge/Hard-16-d9534f.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 </br>
 [![Languages-Python](https://img.shields.io/badge/Languages-Python-red.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)[![Languages-C++](https://img.shields.io/badge/C++-green.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 [![Author](https://img.shields.io/badge/Author-Danis%20Fermi-blue.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
@@ -60,6 +60,7 @@ _All solutions are orderd by: Solution #_
 |115|[Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/115/numDistinct.py)|![Hard](https://img.shields.io/badge/Hard-d9534f.svg?style=flat)|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/122/maxProfit.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/124/maxPathSum.py)|![Hard](https://img.shields.io/badge/Hard-d9534f.svg?style=flat)|
+|127|[Word Ladder](https://leetcode.com/problems/word-ladder/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/127/ladderLength.py)|![Hard](https://img.shields.io/badge/Hard-d9534f.svg?style=flat)|
 |129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/129/sumNumbers.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/130/solve.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/131/partition.py)[![C++](https://img.shields.io/badge/C++--8a5cb8.svg?style=flat)](./cpp/131/partition.cpp) |![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
