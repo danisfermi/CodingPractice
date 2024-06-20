@@ -3,10 +3,10 @@
 <div align="center">
 <img src="https://github.com/danisfermi/CodingPractice/raw/main/leetcode/leetcode-ico.png" width="450" height="auto"/>
 
-[![Solved](https://img.shields.io/badge/Solved-137/3064-337ab7.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
+[![Solved](https://img.shields.io/badge/Solved-138/3064-337ab7.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 [![Easy](https://img.shields.io/badge/Easy-38-5cb85c.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 [![Medium](https://img.shields.io/badge/Medium-83-f0ad4e.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
-[![Hard](https://img.shields.io/badge/Hard-16-d9534f.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
+[![Hard](https://img.shields.io/badge/Hard-17-d9534f.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 </br>
 [![Languages-Python](https://img.shields.io/badge/Languages-Python-red.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)[![Languages-C++](https://img.shields.io/badge/C++-green.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 [![Author](https://img.shields.io/badge/Author-Danis%20Fermi-blue.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
@@ -37,6 +37,7 @@ _All solutions are orderd by: Solution #_
 |20|[Valid Paranthesis](https://leetcode.com/problems/valid-parentheses/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/20/isValid.py)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/21/mergeTwoLists.py)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-paranthesis/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/22/generateParenthesis.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
+|23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/23/mergeKLists.py)|![Hard](https://img.shields.io/badge/Hard-d9534f.svg?style=flat)|
 |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/41/firstMissingPositive.py)|![Hard](https://img.shields.io/badge/Hard-d9534f.svg?style=flat)|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/42/trap.py)|![Hard](https://img.shields.io/badge/Hard-d9534f.svg?style=flat)|
 |43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/43/multiply.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
