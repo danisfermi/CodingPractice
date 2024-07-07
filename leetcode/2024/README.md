@@ -3,8 +3,8 @@
 <div align="center">
 <img src="https://github.com/danisfermi/CodingPractice/raw/main/leetcode/leetcode-ico.png" width="450" height="auto"/>
 
-[![Solved](https://img.shields.io/badge/Solved-154/3064-337ab7.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
-[![Easy](https://img.shields.io/badge/Easy-40-5cb85c.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
+[![Solved](https://img.shields.io/badge/Solved-155/3064-337ab7.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
+[![Easy](https://img.shields.io/badge/Easy-41-5cb85c.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 [![Medium](https://img.shields.io/badge/Medium-95-f0ad4e.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 [![Hard](https://img.shields.io/badge/Hard-19-d9534f.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 </br>
@@ -64,6 +64,7 @@ _All solutions are orderd by: Solution #_
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/63/uniquePathsWithObstacles.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/64/minPathSum.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |66|[Plus One](https://leetcode.com/problems/plus-one/) | [![C++](https://img.shields.io/badge/C++--8b0000.svg?style=flat)](./cpp/66/plusOne.cpp)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
+|69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/69/mySqrt.py)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
 |71|[Simplify Path](https://leetcode.com/problems/simplify-path/) | [![C++](https://img.shields.io/badge/C++--8b0000.svg?style=flat)](./cpp/71/simplifyPath.cpp)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |72|[Edit Distance](https://leetcode.com/problems/edit-distance/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/72/minDistance.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/73/setZeroes.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
