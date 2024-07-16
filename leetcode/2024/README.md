@@ -3,10 +3,10 @@
 <div align="center">
 <img src="https://github.com/danisfermi/CodingPractice/raw/main/leetcode/leetcode-ico.png" width="450" height="auto"/>
 
-[![Solved](https://img.shields.io/badge/Solved-162/3064-337ab7.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
+[![Solved](https://img.shields.io/badge/Solved-163/3064-337ab7.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 [![Easy](https://img.shields.io/badge/Easy-43-5cb85c.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 [![Medium](https://img.shields.io/badge/Medium-99-f0ad4e.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
-[![Hard](https://img.shields.io/badge/Hard-20-d9534f.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
+[![Hard](https://img.shields.io/badge/Hard-21-d9534f.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 </br>
 [![Languages-Python](https://img.shields.io/badge/Languages-Python-red.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)[![Languages-C++](https://img.shields.io/badge/C++-green.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 [![Author](https://img.shields.io/badge/Author-Danis%20Fermi-blue.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
@@ -119,6 +119,7 @@ _All solutions are orderd by: Solution #_
 |343|[Integer Break](https://leetcode.com/problems/integer-break/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/343/integerBreak.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/349/intersection.py)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/350/intersect.py)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
+|352|[Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/352/SummaryRanges.py)|![Hard](https://img.shields.io/badge/Hard-d9534f.svg?style=flat)|
 |377|[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/377/combinationSum4.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |394|[Decode String](https://leetcode.com/problems/decode-string/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/394/decodeString.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |402|[Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/402/removeKdigits.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
