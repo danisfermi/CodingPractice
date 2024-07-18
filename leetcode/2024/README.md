@@ -3,8 +3,8 @@
 <div align="center">
 <img src="https://github.com/danisfermi/CodingPractice/raw/main/leetcode/leetcode-ico.png" width="450" height="auto"/>
 
-[![Solved](https://img.shields.io/badge/Solved-164/3064-337ab7.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
-[![Easy](https://img.shields.io/badge/Easy-43-5cb85c.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
+[![Solved](https://img.shields.io/badge/Solved-165/3064-337ab7.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
+[![Easy](https://img.shields.io/badge/Easy-44-5cb85c.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 [![Medium](https://img.shields.io/badge/Medium-100-f0ad4e.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 [![Hard](https://img.shields.io/badge/Hard-21-d9534f.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 </br>
@@ -126,6 +126,7 @@ _All solutions are orderd by: Solution #_
 |404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/404/sumOfLeftLeaves.py)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
 |442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/442/findDuplicates.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |452|[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/452/findMinArrowShots.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
+|463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/463/islandPerimeter.py)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
 |494|[Target Sum](https://leetcode.com/problems/target-sum/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/494/findTargetSumWays.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |518|[Coin Change II](https://leetcode.com/problems/coin-change-ii/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/518/change.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |525|[Contiguous Array](https://leetcode.com/problems/contiguous-array/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/525/findMaxLength.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
