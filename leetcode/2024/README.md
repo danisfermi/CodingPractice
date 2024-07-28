@@ -3,8 +3,8 @@
 <div align="center">
 <img src="https://github.com/danisfermi/CodingPractice/raw/main/leetcode/leetcode-ico.png" width="450" height="auto"/>
 
-[![Solved](https://img.shields.io/badge/Solved-174/3064-337ab7.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
-[![Easy](https://img.shields.io/badge/Easy-45-5cb85c.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
+[![Solved](https://img.shields.io/badge/Solved-175/3064-337ab7.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
+[![Easy](https://img.shields.io/badge/Easy-46-5cb85c.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 [![Medium](https://img.shields.io/badge/Medium-108-f0ad4e.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 [![Hard](https://img.shields.io/badge/Hard-21-d9534f.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 </br>
@@ -136,6 +136,7 @@ _All solutions are orderd by: Solution #_
 |525|[Contiguous Array](https://leetcode.com/problems/contiguous-array/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/525/findMaxLength.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |621|[Task Scheduler](https://leetcode.com/problems/task-scheduler/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/621/leastInterval.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |622|[Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/622/MyCircularQueue.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
+|645|[Set Mismatch](https://leetcode.com/problems/set-mismatch/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/645/findErrorNums.py)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
 |647|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/647/countSubstrings.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |649|[Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/649/predictPartyVictory.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |673|[Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/673/findNumberOfLIS.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
