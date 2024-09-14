@@ -3,9 +3,9 @@
 <div align="center">
 <img src="https://github.com/danisfermi/CodingPractice/raw/main/leetcode/leetcode-ico.png" width="450" height="auto"/>
 
-[![Solved](https://img.shields.io/badge/Solved-179/3064-337ab7.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
+[![Solved](https://img.shields.io/badge/Solved-180/3064-337ab7.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 [![Easy](https://img.shields.io/badge/Easy-47-5cb85c.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
-[![Medium](https://img.shields.io/badge/Medium-111-f0ad4e.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
+[![Medium](https://img.shields.io/badge/Medium-112-f0ad4e.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 [![Hard](https://img.shields.io/badge/Hard-21-d9534f.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 </br>
 [![Languages-Python](https://img.shields.io/badge/Languages-Python-red.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)[![Languages-C++](https://img.shields.io/badge/C++-green.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
@@ -196,6 +196,7 @@ _All solutions are orderd by: Solution #_
 |2248|[Intersection of Multiple Arrays](https://leetcode.com/problems/intersection-of-multiple-arrays/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/2248/intersection.py)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
 |2348|[Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/2348/zeroFilledSubarray.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |2373|[Largest Local Values in a Matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/2373/largestLocal.py)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
+|2419|[Longest Subarray With Maximum Bitwise AND](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/2419/longestSubarray.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |2483|[Minimum Penalty for a Shop](https://leetcode.com/problems/minimum-penalty-for-a-shop/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/2483/bestClosingTime.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |2540|[Minimum Common Value](https://leetcode.com/problems/minimum-common-value/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/2540/getCommon.py)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
 |2542|[Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/2542/maxScore.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
