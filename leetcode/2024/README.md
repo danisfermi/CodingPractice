@@ -3,9 +3,9 @@
 <div align="center">
 <img src="https://github.com/danisfermi/CodingPractice/raw/main/leetcode/leetcode-ico.png" width="450" height="auto"/>
 
-[![Solved](https://img.shields.io/badge/Solved-178/3064-337ab7.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
+[![Solved](https://img.shields.io/badge/Solved-179/3064-337ab7.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 [![Easy](https://img.shields.io/badge/Easy-47-5cb85c.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
-[![Medium](https://img.shields.io/badge/Medium-110-f0ad4e.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
+[![Medium](https://img.shields.io/badge/Medium-111-f0ad4e.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 [![Hard](https://img.shields.io/badge/Hard-21-d9534f.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
 </br>
 [![Languages-Python](https://img.shields.io/badge/Languages-Python-red.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)[![Languages-C++](https://img.shields.io/badge/C++-green.svg?style=flat)](https://github.com/danisfermi/CodingPractice/leetcode/2024)
@@ -30,6 +30,7 @@ _All solutions are orderd by: Solution #_
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/9/isPalindrome.py)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
 |10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/10/isMatch.py)|![Hard](https://img.shields.io/badge/Hard-d9534f.svg?style=flat)|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/11/maxArea.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
+|12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/12/intToRoman.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/14/longestCommonPrefix.py)|![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|
 |15|[3Sum](https://leetcode.com/problems/3sum/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/15/threeSum.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [![Python](https://img.shields.io/badge/Python--8a5cb8.svg?style=flat)](./python/17/letterCombinations.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
